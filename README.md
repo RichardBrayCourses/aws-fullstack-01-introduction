@@ -1,6 +1,6 @@
 # Aws Full-Stack Cloud Development
 
-# Setup
+# Setup Overview
 
 To get started you will need the following software installed:
 
