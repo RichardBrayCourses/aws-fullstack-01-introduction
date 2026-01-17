@@ -54,5 +54,5 @@ Open a new powershell terminal in admin mode and use winget to install whichever
 then in a new terminal (to ensure node and npm are on the path)
 
 ```
-  npm install -g aws-cli
+  npm install -g aws-cdk
 ```
